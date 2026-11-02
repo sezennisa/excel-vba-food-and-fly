@@ -6,7 +6,7 @@
 
 ## 🇫🇷 Français
 
-Projet réalisé dans le cadre du **Master MBFA – parcours SIEF** (Université de Montpellier, 2025–2026), en binôme avec **Anton**.
+Projet réalisé dans le cadre du **Master MBFA – parcours SIEF** (Université de Montpellier, 2025–2026), en binôme.
 
 ### Objectif
 Construire, entièrement en **Excel VBA**, un outil qui interroge des API web pour comparer des produits alimentaires du monde entier, puis trouver le pays où un produit est le moins cher.
